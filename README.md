@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 🧑‍💻 About Me:
 I am a Computer Science major at the University of Central Florida passionate about programming and machine learning. I am a National Merit Scholar, Burnett Honors Scholar, and UCF Programming Team member. I am intimately familiar with C/C++, Java, Python (Certified Associate in Python Programming) and more.   
 
-### 📫 Connect with me:
+### 📫 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-ded/)
 [![Handshake](https://img.shields.io/badge/Handshake-2E8B57?style=for-the-badge&logo=shield&logoColor=white)](https://app.joinhandshake.com/profiles/dexa52)
