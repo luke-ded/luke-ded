@@ -32,7 +32,8 @@ I am a Computer Science major at the University of Central Florida passionate ab
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Cybersecurity_Analysis-2E8B57?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity Analysis" />
+  <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="CSS3" />
 </p>
 
 ## ✨ My Favorite Projects:
