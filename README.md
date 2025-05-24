@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=66FF66&repeat=false&width=435&lines=Hey+there%2C+I'm+Luke+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=66FF66&width=435&lines=Hey+there%2C+I'm+Luke+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **luke-ded/luke-ded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
