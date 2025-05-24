@@ -1,27 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=66FF66&width=435&lines=Hey+there%2C+I'm+Luke+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<!--
-**luke-ded/luke-ded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### 🧑‍💻 About Me:
 I am a Computer Science major at the University of Central Florida passionate about programming and machine learning. I am a National Merit Scholar, Burnett Honors Scholar, and UCF Programming Team member. I am intimately familiar with C/C++, Java, Python (Certified Associate in Python Programming) and more.   
 
 ### 📫 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-ded/)
-[![Handshake](https://img.shields.io/badge/Handshake-2E8B57?style=for-the-badge&logo=shield&logoColor=white)](https://app.joinhandshake.com/profiles/dexa52)
+[![Handshake](https://img.shields.io/badge/Handshake-DBF970?style=for-the-badge&logo=shield&logoColor=white)](https://app.joinhandshake.com/profiles/dexa52)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luke@dederich.org)
 
 ### 🖥️ My Languages:
