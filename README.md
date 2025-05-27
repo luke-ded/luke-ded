@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=66FF66&width=435&lines=Hey+there%2C+I'm+Luke+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### 🧑‍💻 About Me:
+## 🧑‍💻 About Me:
 I am a Computer Science major at the University of Central Florida passionate about programming and machine learning. I am a National Merit Scholar, Burnett Honors Scholar, and UCF Programming Team member. I am intimately familiar with C/C++, Java, Python (Certified Associate in Python Programming) and more.   
 
 ### 📫 Let's Connect:
