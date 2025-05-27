@@ -49,6 +49,8 @@ walkUCF goes beyond the basics by allowing users to:
 🚦 Jaywalk.   
 🚶‍➡️ Enter their own walking speed.
 
+Check it out at [walkUCF.com](https://walkucf.com/)!
+
 ### **[FDelete](https://github.com/luke-ded/fdelete)**:
 When taking code notes for a compiled language, those pesky executables end up littering the folder and make it difficult to view your notes later! That's why I developed FDelete, a windows application that removes all the files of desired extensions from the desired folders.
 
