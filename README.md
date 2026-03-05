@@ -80,5 +80,5 @@ While this could have been a simple command line application, FDelete gives the 
 🛡️ Built in safeguards.   
 🚫 Invalid extension and invalid directory lists.
 
-## 📊 My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-ded&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 My Top Languages This Week:
+[![Top Langs](https://wakatime.com/share/@169512de-9814-48c0-a9f1-edaff0481c77/d50f6e50-cf22-402f-a1a7-3c91ac8ac7f9.svg)]
