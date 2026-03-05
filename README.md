@@ -81,4 +81,4 @@ While this could have been a simple command line application, FDelete gives the 
 🚫 Invalid extension and invalid directory lists.
 
 ## 📊 My Top Languages This Week:
-[![Top Langs](https://wakatime.com/share/@169512de-9814-48c0-a9f1-edaff0481c77/d50f6e50-cf22-402f-a1a7-3c91ac8ac7f9.svg)]
+![Top Langs](https://wakatime.com/share/@169512de-9814-48c0-a9f1-edaff0481c77/d50f6e50-cf22-402f-a1a7-3c91ac8ac7f9.svg)
