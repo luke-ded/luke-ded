@@ -53,6 +53,8 @@ I am a Computer Science major at the University of Central Florida passionate ab
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Google_Protobuf-8dEFC3?style=for-the-badge&logo=dot-net&logoColor=white" alt="Google Protobuf" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 ## ✨ My Favorite Projects:
